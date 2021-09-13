@@ -1,17 +1,17 @@
-# Имя
-Выберите самообъясняющееся название для своего проекта.
+# Название проекта
+>Раздел находится в разработке
 
 ## Описание
-В **данном** _репозитории_ исходный код
-Ссылка на страницу разработки [GitHub](https://gitlab.rebrainme.com/devops_users_repos/2844/rebrain-devops-task1.git)
+>Репозитории содержит исходный код, необходимый для установки проекта и его дальнейшего сопровождения.
 
+## Подготовка и установка
+Перед установкой необходимо выполнить следующие условия:
+>Раздел находится в разработке
 
-## Установка
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+Установка состоит из следующих этапов:
+1. Этап 1. 
+1. Этап 2.
+1. Этап 3.
 
 ## Примеры использование 
 
@@ -27,7 +27,7 @@ systemctl start nginx
 ![Screenshot](404.webp)
 
 ## Дорожная карта
-Если у вас есть идеи для выпусков в будущем, рекомендуется перечислить их в README.
+Дорожная карта и статус:
 - [x] Basic. Git
 - [ ] Terraform
 - [ ] Ansible
@@ -36,17 +36,16 @@ systemctl start nginx
 - [ ] QA
 - [ ] CI / CD
 
-## Сообщество и поддержка
-Раздел находится в разработке
-
 ## Участие в проекте
-Просмотрите существующие [проблемы](https://github.com/nedr17/rebrain-devops-task1/issues) и [запросы](https://github.com/nedr17/rebrain-devops-task1/pulls) на извлечение, с которыми вы могли бы помочь. Если вы хотите запросить функцию или сообщить об ошибке, создайте проблему GitHub с помощью одного из предоставленных [шаблонов](https://github.com/nedr17/rebrain-devops-task1/issues).
+- Существующие проблемы перечислены на страницах [Issue](https://gitlab.rebrainme.com/devops_users_repos/2844/rebrain-devops-task1/-/issues);
+- Внешние запросы на исправления представлены в  [Pull Requests](https://gitlab.rebrainme.com/devops_users_repos/2844/rebrain-devops-task1/-/merge_requests); 
+- Зарегистрировать или сообщить об ошибке можно по шаблону, представленному на странице [Issue](https://gitlab.rebrainme.com/devops_users_repos/2844/rebrain-devops-task1/-/issues).
 
 ## Лицензия
-Distributed under the MIT License. See LICENSE for more information.
+[MIT](LICENSE.md) © Andrey Startsev
 
 ## Статус проекта
 Проект находится в разработке
 
 ## Контактная информация
-Раздел находится в разработке
+- <av.startsew@gmail.com>
